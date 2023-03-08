@@ -28,3 +28,8 @@ Alguns deles:
   - etc...
   <br>
  Temos outros tipos, porem esses são mais utilizados.
+
+# Criando tabelas com CREATE DATABASE
+Sintaxe
+<br>
+* CREATE DATABASE - Criar uma base de dados
