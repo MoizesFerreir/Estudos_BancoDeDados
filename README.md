@@ -33,3 +33,4 @@ Alguns deles:
 Sintaxe
 <br>
 * CREATE DATABASE - Criar uma base de dados
+* Qual a diferença de banco de dados para database?
