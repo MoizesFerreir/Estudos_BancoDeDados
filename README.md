@@ -34,3 +34,7 @@ Sintaxe
 <br>
 * CREATE DATABASE - Criar uma base de dados
 * Qual a diferença de banco de dados para database?
+
+
+# Fazer consultas em uma base de dados com SELECT
+ * SELECT 
