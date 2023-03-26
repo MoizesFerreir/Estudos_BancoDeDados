@@ -38,3 +38,7 @@ Sintaxe
 
 # Fazer consultas em uma base de dados com SELECT
  * SELECT 
+
+
+# JOIN
+* Clausulas JOIN (JUNÇÕES) são usadas para combinar dados provenientes de duas ou mais tabelas em um unico conjunto de resultados,  em condições de join especificadas
