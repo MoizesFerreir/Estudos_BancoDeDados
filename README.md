@@ -38,6 +38,7 @@ Sintaxe
 
 # Fazer consultas em uma base de dados com SELECT
  * SELECT 
+# WHERE, ONDE
 
 
 # JOIN
