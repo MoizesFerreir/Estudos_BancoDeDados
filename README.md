@@ -29,17 +29,19 @@ Alguns deles:
   <br>
  Temos outros tipos, porem esses são mais utilizados.
 
-# Criando tabelas com CREATE DATABASE
+## Criando tabelas com CREATE DATABASE
 Sintaxe
 <br>
 * CREATE DATABASE - Criar uma base de dados
 * Qual a diferença de banco de dados para database?
 
 
-# Fazer consultas em uma base de dados com SELECT
+## Fazer consultas em uma base de dados com SELECT
  * SELECT 
 # WHERE, ONDE
 
 
-# JOIN
+## JOIN
 * Clausulas JOIN (JUNÇÕES) são usadas para combinar dados provenientes de duas ou mais tabelas em um unico conjunto de resultados,  em condições de join especificadas
+
+## MER
