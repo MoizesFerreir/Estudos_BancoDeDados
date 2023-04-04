@@ -44,4 +44,7 @@ Sintaxe
 ## JOIN
 * Clausulas JOIN (JUNÇÕES) são usadas para combinar dados provenientes de duas ou mais tabelas em um unico conjunto de resultados,  em condições de join especificadas
 
-## MER
+## MER - Modelo Entida-Relacionamento.
+* Entidade(forte): é um objeto basico do MER usado para representar uma coisa no mundo real, fisica ou conceitual, com exitência independente.
+* Heuristica: no discurso que descreve o mundo real, as entidades são frequentemente mencionadas, e geralmente são descritas em termos de suas propriedades.
+
