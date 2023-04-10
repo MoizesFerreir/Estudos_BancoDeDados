@@ -1,4 +1,4 @@
-# Estudo: Banco de Dados
+# Estudando Banco de Dados
 Anotação e compreensão sobre banco de dados(SQL).<br>
 Estou aprendendo mais sobre banco de dados na faculdade, por esse motivo criei esse repositorio, para conforme eu for aprendendo e praticando, vou fazendo anotaçoes aqui.
 
