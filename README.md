@@ -38,7 +38,7 @@ Sintaxe
 
 ## Fazer consultas em uma base de dados com SELECT
  * SELECT 
-# WHERE, ONDE
+# WHERE
 
 
 ## JOIN
@@ -50,4 +50,7 @@ Sintaxe
 ## MER - Modelo Entida-Relacionamento.
 * Entidade(forte): é um objeto basico do MER usado para representar uma coisa no mundo real, fisica ou conceitual, com exitência independente.
 * Heuristica: no discurso que descreve o mundo real, as entidades são frequentemente mencionadas, e geralmente são descritas em termos de suas propriedades.
+<br>
+
+## DER - Diagrama Entidade-Relacionamento.
 
